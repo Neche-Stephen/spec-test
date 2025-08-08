@@ -48,3 +48,9 @@ theme = 'github.com/imfing/hextra'
     weight = 3
     [menu.main.params]
       icon = 'github'
+
+  [[menu.main]]
+    name = 'Search'
+    weight = 4
+    [menu.main.params]
+      type = 'search'
