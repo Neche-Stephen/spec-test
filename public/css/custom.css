@@ -1,4 +1,3 @@
-
 /* Target pages that contain the hero shortcode (landing page specific) */
 @media (min-width:1024px){
   .hx-container:has([class*="hero"]) ~ * .sidebar-container,
